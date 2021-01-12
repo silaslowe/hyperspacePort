@@ -3998,3 +3998,9 @@ i {
   align-items: center;
   justify-content: center;
 }
+
+@media screen and (max-width: 736px) {
+  #intro {
+    height: 100vh;
+  }
+}
