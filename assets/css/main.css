@@ -4001,9 +4001,9 @@ i {
 
 @media screen and (max-width: 736px) {
   #intro {
-    height: 80vh;
+    height: 100vh;
   }
-  #slowe-img {
+  /* #slowe-img {
     object-position: top;
-  }
+  } */
 }
