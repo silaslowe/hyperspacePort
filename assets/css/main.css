@@ -4003,4 +4003,7 @@ i {
   #intro {
     height: 100vh;
   }
+  #slowe-img {
+    object-position: top;
+  }
 }
